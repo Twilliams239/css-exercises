@@ -1,0 +1,14 @@
+/* style.css */
+
+button {
+    font-size: 28px;
+    font-style: Helevetica, "Times New Roman", sans-serif;
+}
+
+.left{
+    color: white;
+    background-color: black;
+}
+.right{
+    background-color: yellow;
+}
