@@ -1,0 +1,22 @@
+/* styles.css */
+
+
+p{
+    background-color: rgb(247, 126, 146);
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#four{
+    background-color: rgb(136, 224, 109);
+    font-size: 24px;
+    font-weight: bold;
+}
